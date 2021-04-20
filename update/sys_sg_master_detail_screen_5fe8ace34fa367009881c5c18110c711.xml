@@ -4,8 +4,12 @@
         <available_offline>false</available_offline>
         <data_item display_value="mass_update_queue">1868a4e34fa367009881c5c18110c721</data_item>
         <description>List of CI's for mass change</description>
+        <dynamic_prefetch_count/>
         <fetch_type>not_required</fetch_type>
+        <filter/>
         <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
         <icon display_value="file-alt">9fe86ce34fa367009881c5c18110c7f7</icon>
         <name>CI Queues</name>
         <order>10</order>
@@ -14,17 +18,16 @@
         <roles_override/>
         <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
         <sys_created_by>Arnoud.Kooi</sys_created_by>
-        <sys_created_on/>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_on>2021-04-20 08:53:53</sys_created_on>
         <sys_id>5fe8ace34fa367009881c5c18110c711</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>CI Queues</sys_name>
         <sys_package display_value="Mobile Mass Change" source="x_snc_mobile_mass">3554686f4f6367009881c5c18110c72b</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Mobile Mass Change">3554686f4f6367009881c5c18110c72b</sys_scope>
         <sys_update_name>sys_sg_master_detail_screen_5fe8ace34fa367009881c5c18110c711</sys_update_name>
         <sys_updated_by>Arnoud.Kooi</sys_updated_by>
         <sys_updated_on>2019-02-16 18:48:17</sys_updated_on>
     </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=5fe8ace34fa367009881c5c18110c711"/>
 </record_update>
